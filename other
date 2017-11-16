@@ -3,16 +3,25 @@
 		"wpcf-app-link-text": "https:\/\/play.google.com\/store\/apps\/details?id=com.mameclassic.guideforstreetfighter2",
 		"wpcf-app-info": "Android Street Fighter 2 Games",
 		"wpcf-app-title": "Game for Street Fighter 2",
-		"wpcf-app-icon": "https:\/\/github.com\/tukangpilem\/josswoww\/blob\/master\/icon01.png",
+		"wpcf-app-icon": "https:\/\/2.bp.blogspot.com\/-wM4OC9idMck\/Wgz_KkTuZTI\/AAAAAAAAAFo\/FD_aNxfgmiwDXakuYIOf9FJ-g3dF69L5wCPcBGAYYCw\/s1600\/icon01.png",
 		"wpcf-app-link-type": "gplink",
 		"views": "456725"
 	},
-		"x_metadata": {
+	"x_metadata": {
+		"wpcf-app-link-text": "https:\/\/play.google.com\/store\/apps\/details?id=com.arcadegameroom.arcadecabinet.easyrom",
+		"wpcf-app-info": "Classic Arcade games collection",
+		"wpcf-app-title": "Arcade Cabinet Pro+",
+		"wpcf-app-icon": "https:\/\/2.bp.blogspot.com\/-gu-6y8qXPHA\/Wg0B2TDSC3I\/AAAAAAAAAF4\/FHAg_cmDJPIBM8o2EdjfKorByg_BdI1QwCLcBGAs\/s1600\/144.png",
+		"wpcf-app-link-type": "gplink",
+		"views": "456725"
+	},
+	"x_metadata": {
 		"wpcf-app-link-text": "https:\/\/play.google.com\/store\/apps\/details?id=com.mameclassic.guidekof98",
 		"wpcf-app-info": "Free Android King Of Fighter 98 games",
 		"wpcf-app-title": "King Of Fighter 98",
-		"wpcf-app-icon": "https:\/\/github.com\/tukangpilem\/josswoww\/blob\/master\/icon2.png",
+		"wpcf-app-icon": "https:\/\/4.bp.blogspot.com\/-xBQEGmEfvsI\/Wgz_KtuiUsI\/AAAAAAAAAFk\/mJ7jWwP4P4I3Vha4QU__CoowHbn_j65vACPcBGAYYCw\/s1600\/icon02.png",
 		"wpcf-app-link-type": "gplink",
 		"views": "65386529"
 	}
+	
 }]
